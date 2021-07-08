@@ -1,6 +1,6 @@
 # MemPing
 
-A simple project that is intended to help me to remember things.
+A simple project that is intended to help me remember things.
 
 ## Project Status
 
